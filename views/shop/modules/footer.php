@@ -110,7 +110,9 @@
                 </div>
                 <div class="col-3">
                     <div class="h6">FANPAGE</div>
-
+                    <div class="fb-page" data-href="https://www.facebook.com/dottiestore" data-tabs="timeline" data-width="360" data-height="200" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/dottiestore/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dottiestore/"></a></blockquote>
+                    </div>
                 </div>
             </div>
         </div>

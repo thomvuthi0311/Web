@@ -36,7 +36,7 @@
         }
         ?>
     </div>
-    <a>Totalcart <?= number_format($_SESSION['total'], 0, '', ',') ?>VNĐ</a>
+    <a>Tổng tiền <?= number_format($_SESSION['total'], 0, '', ',') ?>VNĐ</a>
     <div class="card-footer text-muted">
         <a href="<?= URL ?>index.php/home/deleteAllCart" class="btn btn-outline-danger">Xóa tất cả</a>
         <a href="<?= URL ?>index.php/home/thanhtoan" class="btn btn-outline-success">Đặt hàng</a>
